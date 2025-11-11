@@ -97,6 +97,7 @@ Stížnosti jsou zvláště efektivní, když pochází od občanů dané země 
 - Email: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - Pošlete oznámení na [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 - Pošlete žádost Australskému sdružení spotřebitelů ([CHOICE](https://accounts.choice.com.au/contact-us/)). Požádejte je, aby podali stížnost Australské komisi pro soutěž a spotřebitele (Australian Competition & Consumer Comission, ACCC).
+- Kontaktujte svého místního poslance nebo senátora státu. Pokud neznáte své volební obvod, můžete jej najít [zde](https://electorate.aec.gov.au/) a své poslance nebo senátory vyhledat [zde](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results).
 
 #### Japonsko
 

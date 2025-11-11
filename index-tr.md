@@ -96,6 +96,7 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 - E-posta: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue) kurumuna şikayette bulunun.
 - Avustralyalı Tüketiciler Derneği'ne (Australian Consumers’ Association) ([CHOICE](https://accounts.choice.com.au/contact-us/)) talebinizi iletin. Onlardan Avustralya Rekabet ve Tüketici Komisyonu'na (Australian Competition & Consumer Comission (ACCC)) belirli bir şikayette bulunmalarını isteyin.
+- Yerel Milletvekili veya Eyalet Senatörü ile iletişime geçin. Seçim bölgenizi bilmiyorsanız, [buradan](https://electorate.aec.gov.au/) bulabilir ve parlamento üyelerinizi veya senatörlerinizi [buradan](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results) arayabilirsiniz.
 
 #### Japonya
 - E-posta: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)

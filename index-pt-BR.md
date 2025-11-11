@@ -98,6 +98,7 @@ As reclamações são especialmente impactantes quando são escritas por um cida
 - Email: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - Faça uma reclamação junto à [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 - Envie um pedido à Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Peça para que eles apresentem uma reclamação designada à Australian Competition & Consumer Comission (ACCC).
+- Entre em contato com seu deputado local ou senador estadual. Se você não souber seu eleitorado, pode encontrá-lo [aqui](https://electorate.aec.gov.au/) e pode buscar seus parlamentares ou senadores [aqui](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results).
 
 #### Japão
 
