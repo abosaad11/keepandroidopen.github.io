@@ -147,6 +147,15 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 - Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
+
+
+#### Czech Republic
+
+* Email: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)
+* Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)
+
+
+
 ### Developers: Resist and refuse
 
 If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
