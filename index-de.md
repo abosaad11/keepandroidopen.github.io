@@ -276,6 +276,7 @@ Diese Projekte arbeiten daran, den dringend benötigten Wettbewerb auf dem Markt
 
 - Ursprüngliche Ankündigung — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 - „Let’s talk security“ – Fragen und Antworten zur Entwicklerverifizierung — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
+- Android developer verification: Early access starts now as we continue to build with your feedback — [https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - Android Developer Verification – Leitfäden — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
 - Häufig gestellte Fragen — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
 - Einführung der Android Developer Console — [https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf](https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf)

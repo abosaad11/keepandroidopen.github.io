@@ -280,6 +280,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 - 首度宣佈 — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 - 也談安全性：解答您們有關 Android 開發人員驗證的頂尖問題 — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
+- Android developer verification: Early access starts now as we continue to build with your feedback — [https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - Android 開發人員驗證：指南 — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
 - Android 開發人員驗證：常見問題 — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
 - 隆重介紹 Android 開發人員控制台：初窺其貌 — [https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf](https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf)

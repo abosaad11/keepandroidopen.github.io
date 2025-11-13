@@ -250,7 +250,10 @@ Bu projeler, mobil donanım alanında çok ihtiyaç duyulan rekabeti sağlamak i
 - [https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/](https://www.reddit.com/r/androiddev/comments/1oaj908/collection_of_actions_we_can_take_to_stop/)
 
 ### Resmî Belgelendirme
+
 - Initial announcement — [https://android-developers.googleblog.com/2025/08/elevating-android-security.html](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
+- Let's talk security: Answering your top questions about Android developer verification — [https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html)
+- Android developer verification: Early access starts now as we continue to build with your feedback — [https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - Android developer verification: Guides — [https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity](https://developer.android.com/developer-verification/guides/android-developer-console#complete-identity)
 - Android developer verification: Frequently asked questions — [https://developer.android.com/developer-verification/guides/faq](https://developer.android.com/developer-verification/guides/faq)
 - Introducing the Android Developer Console: A first look — [https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf](https://developer.android.com/developer-verification/assets/pdfs/introducing-the-android-developer-console.pdf)
