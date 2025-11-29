@@ -168,6 +168,8 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 勸諫應用程式開發者與組織同儕，不要註冊該計劃。善用社群討論區、社群媒體與部落格帖文，將此訊息傳開去。在您的程式碼中包含 [FreeDroidWarn 程式庫](https://github.com/woheller69/FreeDroidWarn)，藉以告知您的應用程式使用者。
 
+若您是一名 Google 僱員或承辦商，對此計劃殊有洞察，包括有所計劃的技術實作詳情，又或此計劃別有玄機，心中又抱持良知不吐不快，請使用一臺 _非工作_ 機器、透過一個 _非 gmail_ 帳戶，以電子郵件來鴻 [tips@keepandroidopen.org](mailto:tips@keepandroidopen.org)。您的資訊必嚴加保密。
+
 ### 齊集氣：集結您的聲音，呼聲響徹雲霄
 
 - 在您的 (各個) Android 裝置上[安裝 F-Droid](https://f-droid.org)。越多人使用替代應用程式市集，就越難將之摒出去。
@@ -223,6 +225,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 ### 社論與部落格
 
+- 《您的智慧型手機，聽他們定的規矩：應用程式商店如何育成一場企業、政府的審查勾當》 - [https://www.aclu.org/news/free-speech/app-store-oligopoly](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 - 《應用程式把關：通向網際網路審查無限上綱、無窮延展之路》 — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
 - 《言側載時，孰與執言》 — [https://f-droid.org/2025/10/28/sideloading.html](https://f-droid.org/2025/10/28/sideloading.html) ([Hacker News 迴響](https://news.ycombinator.com/item?id=45736479))
 - 《F-Droid 與 Google 頒佈之開發者註冊令》 — [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html) ([Hacker News 迴響](https://news.ycombinator.com/item?id=45409794))
