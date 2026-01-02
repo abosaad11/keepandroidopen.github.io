@@ -147,6 +147,9 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 - Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
+#### Poland
+* Email: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)
+* Contat the [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)
 
 
 #### Czech Republic
