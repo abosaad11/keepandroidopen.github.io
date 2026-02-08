@@ -39,7 +39,7 @@ Tato registrace bude zahrnovat:
 
 ## Jak můžete pomoci
 
-### Spotřebitelé: Kontaktovat státní regulátory
+### Spotřebitelé: Kontaktovat státní regulátory {#consumers}
 
 Regulátoři po celém světě jsou skutečně znepokojeni nad monopoly a centralizací moci v technologickém sektoru a chtějí informace přímo od jednotlivců, kteří jsou dotčeni a znepokojeni. Během kontaktování regulátorů napřímo, byste měli být _zdvořilí_ a _konkrétní_ ohledně škody, které podle vás tato pravidla způsobí jak spotřebitelům, tak svobodné hospodářské soutěži.
 

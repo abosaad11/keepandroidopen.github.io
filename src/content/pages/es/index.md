@@ -39,7 +39,7 @@ Este registro implicará:
 
 ## Cómo puedes ayudar
 
-### Consumidores: pónganse en contacto con las autoridades reguladoras nacionales
+### Consumidores: pónganse en contacto con las autoridades reguladoras nacionales {#consumers}
 
 Las autoridades reguladoras de todo el mundo están sinceramente preocupadas por los monopolios y la centralización del poder en el sector tecnológico, y desean escuchar directamente a las personas afectadas. Cuando se pongan en contacto con ellas, sean corteses y precisos en cuanto a los perjuicios que estas políticas pueden causar, tanto a los consumidores como a la competencia.
 

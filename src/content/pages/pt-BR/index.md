@@ -39,7 +39,7 @@ Esse registro envolverá:
 
 ## Como você pode ajudar
 
-### Consumidores: Contatem os órgãos reguladores nacionais
+### Consumidores: Contatem os órgãos reguladores nacionais {#consumers}
 
 Os reguladores em todo o mundo estão genuinamente preocupados com monopólios e a centralização de poder no setor de tecnologia, e querem ouvir diretamente de indivíduos que são afetados e preocupados. Ao contatar os reguladores diretamente, você deve ser _educado_ e _específico_ sobre o dano que acredita que essas políticas causarão, tanto aos consumidores quanto à concorrência.
 

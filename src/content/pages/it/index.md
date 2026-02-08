@@ -38,7 +38,7 @@ Questa registrazione richiederà di:
 
 ## Come puoi aiutare
 
-### Consumatori: contattate le autorità di regolamentazione nazionali
+### Consumatori: contattate le autorità di regolamentazione nazionali {#consumers}
 
 Le autorità di regolamentazione di tutto il mondo sono sinceramente preoccupate per i monopoli e la centralizzazione del potere nel settore tecnologico e desiderano ascoltare direttamente le persone interessate. Quando contatti direttamente le autorità di regolamentazione, sii _educato_ e _specifico_ riguardo al danno che ritieni che queste politiche causeranno, sia ai consumatori sia alla concorrenza.
 

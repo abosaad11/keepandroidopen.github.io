@@ -39,7 +39,7 @@ Cet enregistrement impliquera:
 
 ## Comment vous pouvez aider
 
-### Consommateurs : Contactez les autorités de régulation nationales
+### Consommateurs : Contactez les autorités de régulation nationales {#consumers}
 
 Les autorités de régulation du monde entier sont sincèrement préoccupées par les monopoles et la centralisation du pouvoir dans le secteur technologique, et souhaitent entendre directement les personnes concernées. Lorsque vous les contactez, soyez courtois et précis quant aux préjudices que ces politiques risquent de causer, tant aux consommateurs qu'à la concurrence.
 

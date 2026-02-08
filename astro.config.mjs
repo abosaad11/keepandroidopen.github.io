@@ -1,5 +1,9 @@
 import { defineConfig } from 'astro/config';
 import remarkKramdownClasses from './src/plugins/remark-kramdown-classes.mjs';
+import { remarkHeadingId } from "remark-custom-heading-id";
+import rehypeSlug from 'rehype-slug';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import rehypeExternalLinks from "rehype-external-links";
 
 export default defineConfig({
   site: 'https://keepandroidopen.org',
@@ -11,6 +15,14 @@ export default defineConfig({
     },
   },
   markdown: {
-    remarkPlugins: [remarkKramdownClasses],
+    remarkPlugins: [remarkHeadingId, remarkKramdownClasses],
+    rehypePlugins: [[rehypeExternalLinks, {
+      target: "_blank",
+      content: {
+        type: "text",
+        value: " ↗"
+      }
+    }]
+    ],
   },
 });

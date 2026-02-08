@@ -39,7 +39,7 @@ This registration will involve:
 
 ## How you can help
 
-### Consumers: Contact national regulators
+### Consumers: Contact national regulators {#consumers}
 
 Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition.
 

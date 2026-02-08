@@ -38,7 +38,7 @@ Diese Registrierung umfasst:
 
 ## Wie Sie helfen können
 
-### Verbraucher: Kontaktieren Sie die nationalen Aufsichtsbehörden
+### Verbraucher: Kontaktieren Sie die nationalen Aufsichtsbehörden {#consumers}
 
 Regulierungsbehörden auf der ganzen Welt sind ernsthaft besorgt über Monopole und die zunehmende Machtkonzentration im Technologiesektor – und sie möchten die Stimmen der Betroffenen hören.
 Wenn Sie Kontakt aufnehmen, seien Sie höflich und präzise, und beschreiben Sie genau, welchen Schaden diese Politik sowohl Verbrauchern als auch dem Wettbewerb zufügen könnte.

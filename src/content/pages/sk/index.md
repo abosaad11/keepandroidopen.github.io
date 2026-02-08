@@ -39,7 +39,7 @@ Táto registrácia bude zahŕňať:
 
 ## Ako môžete pomôcť
 
-### Spotrebitelia: Kontaktujte národné regulačné orgány
+### Spotrebitelia: Kontaktujte národné regulačné orgány {#consumers}
 
 Regulačné orgány po celom svete sa skutočne obávajú monopolov a centralizácie moci v technologickom sektore a chcú počuť priamo od jednotlivcov, ktorých sa to týka a ktorí sa tým zaoberajú. Pri priamom kontakte s regulačnými orgánmi by ste mali byť _zdvorilí_ a _konkrétni_, pokiaľ ide o škody, ktoré podľa vás tieto politiky spôsobia spotrebiteľom aj konkurencii.
 

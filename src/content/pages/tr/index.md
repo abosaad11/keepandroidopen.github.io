@@ -47,7 +47,7 @@ Tanıdık uygulama geliştiricilerini ve teşkilatları programa kaydolmak konus
 
 —— _Bu kontrolü ele alma planı sadece geliştiricilerin rızasıyla başarıya ulaşabilir._ ——
 
-### Millî düzenleyicilerle irtibata geçin
+### Millî düzenleyicilerle irtibata geçin {#consumers}
 
 Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller ve gücün merkezileşmesi konusunda endişelidirler ve bundan etkilenen veya endişe duyan kişilerden doğrudan bilgi almak istemektedirler. Düzenleyici kurumlarla doğrudan irtibata geçtiğinizde, bu koşulların hem tüketiciler hem de rakipler için sebep olacaklarına inandığınız zarar konusunda _nazik_ ve _net_ olmanız gerekir.
 
