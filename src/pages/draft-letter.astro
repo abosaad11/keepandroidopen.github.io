@@ -29,8 +29,7 @@ const { data } = entry;
   signatures.forEach(signature => {
     const listItem = document.createElement("li");
     listItem.innerHTML = `
-      <strong>${signature.name}</strong><br>
-      ${signature.title}, ${signature.organization}
+      <strong>${signature.organization}</strong> (<a target="_blank" href="https://${signature.url}">${signature.url}</a>)
     `;
     signaturesList.appendChild(listItem);
   });

@@ -1,6 +1,40 @@
-- name: NAME
-  title: TITLE
-  organization: ORGANIZATION
-# - name: Jane Smith
-  # title: Community Organizer
-  # organization: Advocacy Group
+- organization: App Fair Project
+  url: appfair.org
+- organization: Article 19
+  url: article19.org
+- organization: Chaos Computer Club
+  url: ccc.de
+- organization: Cryptee
+  url: crypt.ee
+- organization: Digital Rights Foundation
+  url: digitalrightsfoundation.pk
+- organization: Digital Rights Watch
+  url: digitalrightswatch.org.au
+- organization: E Foundation
+  url: e.foundation
+- organization: Electronic Frontier Foundation
+  url: eff.org
+- organization: F-Droid
+  url: f-droid.org
+- organization: Free Software Foundation Europe
+  url: fsfe.org
+- organization: Guardian Project
+  url: guardianproject.info
+- organization: Nextcloud
+  url: nextcloud.com
+- organization: Open Rights Group
+  url: openrightsgroup.org
+- organization: Rossman Group
+  url: rossmanngroup.com
+- organization: Software Freedom Conservancy
+  url: sfconservancy.org
+- organization: Techlore
+  url: techlore.tech
+- organization: Tor Project
+  url: torproject.org
+- organization: Tuta Mail
+  url: tutao.de
+
+#- organization: XXX
+#  url: XXX
+

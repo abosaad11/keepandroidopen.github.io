@@ -37,7 +37,7 @@ lang: en
 <div class="draft-watermark">Draft</div>
 
 ```
-Date: February —, 2026
+Date: February 24, 2026
 To: Sundar Pichai, Chief Executive Officer, Google
 To: Sergey Brin, Founder and Board Member, Google
 To: Larry Page, Founder and Board Member, Google
