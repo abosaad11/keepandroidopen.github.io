@@ -1282,6 +1282,7 @@ countries:
 
   - id: "philippines"
     name:
+      ar: "الفلبين"
       en: "Philippines"
       ru: "Филиппины"
       de: "Philippinen"
@@ -1302,6 +1303,7 @@ countries:
       zh-TW: "菲律賓"
     items:
       - text:
+          ar: "تواصل مع [لجنة المنافسة الفلبينية (PCC)](https://www.phcc.gov.ph/)"
           en: "Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)"
           ru: "Свяжитесь с [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)"
           de: "Kontaktieren Sie die [Philippinische Wettbewerbsbehörde (PCC)](https://www.phcc.gov.ph/)"
@@ -1322,6 +1324,7 @@ countries:
 
   - id: "poland"
     name:
+      ar: "بولندا"
       en: "Poland"
       ru: "Польша"
       ko: "폴란드"
@@ -1332,6 +1335,7 @@ countries:
       zh-TW: "波蘭"
     items:
       - text:
+          ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           en: "Email: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           ru: "Электронная почта: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           th: "อีเมล: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
@@ -1339,6 +1343,7 @@ countries:
           pl: "E-mail: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           zh-TW: "電子郵件：[uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [مكتب حماية المنافسة والمستهلك (UOKiK)](https://uokik.gov.pl/)"
           en: "Contact the [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
           ru: "Свяжитесь с [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
           el: "Επικοινωνήστε με το [Γραφείο Ανταγωνισμού και Προστασίας του Καταναλωτή (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
@@ -1349,6 +1354,7 @@ countries:
 
   - id: "czech-republic"
     name:
+      ar: "الجمهورية التشيكية"
       en: "Czech Republic"
       ru: "Чешская Республика"
       it: "Repubblica Ceca"
@@ -1364,6 +1370,7 @@ countries:
       zh-TW: "捷克共和國"
     items:
       - text:
+          ar: "البريد الإلكتروني: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           en: "Email: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           ru: "Электронная почта: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           it: "E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
@@ -1376,6 +1383,7 @@ countries:
           zh-CN: "电子邮件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           zh-TW: "電子郵件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
       - text:
+          ar: "اتصل بـ [مكتب حماية المنافسة (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           en: "Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           ru: "Свяжитесь с [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           it: "Contatta [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
@@ -1391,6 +1399,7 @@ countries:
 
   - id: "ukraine"
     name:
+      ar: "أوكرانيا"
       en: "Ukraine"
       ru: "Украина"
       de: "Ukraine"
@@ -1410,6 +1419,7 @@ countries:
       zh-TW: "烏克蘭"
     items:
       - text:
+          ar: "تواصل مع [اللجنة الوطنية لتنظيم الاتصالات الإلكترونية](https://nkek.gov.ua/)"
           en: "Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)"
           ru: "Свяжитесь с [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)"
           it: "Contatta [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)"
@@ -1423,6 +1433,7 @@ countries:
           zh-CN: "联系[国家电子通信监管委员会](https://nkek.gov.ua/)"
           zh-TW: "聯絡[國家電子通訊監管委員會](https://nkek.gov.ua/)"
       - text:
+          ar: "تواصل مع [وزارة التحول الرقمي](https://thedigital.gov.ua/)"
           en: "Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)"
           ru: "Свяжитесь с [Ministry of Digital Transformation](https://thedigital.gov.ua/)"
           it: "Contatta [Ministry of Digital Transformation](https://thedigital.gov.ua/)"
@@ -1436,6 +1447,7 @@ countries:
           zh-CN: "联系[数字化转型部](https://thedigital.gov.ua/)"
           zh-TW: "聯絡[數位轉型部](https://thedigital.gov.ua/)"
       - text:
+          ar: "تواصل مع [لجنة مكافحة الاحتكار في أوكرانيا](https://amcu.gov.ua/)"
           en: "Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)"
           ru: "Свяжитесь с [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)"
           it: "Contatta [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)"
@@ -1451,6 +1463,7 @@ countries:
 
   - id: "slovakia"
     name:
+      ar: "سلوفاكيا"
       en: "Slovakia"
       ru: "Словакия"
       sk: "Slovenská republika"
@@ -1459,6 +1472,7 @@ countries:
       - sk
     items:
       - text:
+          ar: "البريد الإلكتروني: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
           en: "E-mail: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
           ru: "Электронная почта: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
           sk: "E-mail: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
