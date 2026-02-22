@@ -64,7 +64,7 @@ follow_up:
 countries:
   - id: european-union
     name:
-      ar:" الاتحاد الأوروبي"
+      ar: "الاتحاد الأوروبي"
       en: "European Union"
       ru: "Европейский союз"
       de: "Europäische Union"
